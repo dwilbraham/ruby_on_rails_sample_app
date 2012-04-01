@@ -18,6 +18,7 @@ group :test do
   gem 'autotest-growl', '0.2.16'
   gem 'ZenTest', '4.6.2'
   gem 'redgreen', '1.2.2'
+  gem 'factory_girl_rails', '1.0'
 end
 
 # Use unicorn as the web server
